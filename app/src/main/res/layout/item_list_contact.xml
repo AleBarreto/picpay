@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="contact"
+            type="costa.barreto.picpay.features.contact.model.Contact" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp">
+
+        <ImageView
+            android:id="@+id/iv_contact"
+            android:layout_width="52dp"
+            android:layout_height="52dp"
+            android:src="@mipmap/ic_launcher"
+            app:imageCircleUrl="@{contact.img}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tv_id_contact"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="@{contact.username}"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            app:layout_constraintStart_toEndOf="@+id/iv_contact"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="aleromero" />
+
+        <TextView
+            android:id="@+id/tv_name_contact"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="4dp"
+            android:text="@{contact.name}"
+            android:textColor="#80FFFFFF"
+            android:textSize="14sp"
+            app:layout_constraintStart_toEndOf="@+id/iv_contact"
+            app:layout_constraintTop_toBottomOf="@+id/tv_id_contact"
+            tools:text="Alice Romero" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PicPay</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="long_text">
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porta elementum porta. Nullam ultricies, massa non condimentum rhoncus, justo lorem ullamcorper sem, sed blandit tortor ante in justo. Etiam volutpat eros eu mauris euismod, at maximus turpis faucibus. Vestibulum placerat, dui et placerat finibus, odio tortor pretium dolor, ut mattis quam felis ut sapien. Praesent congue maximus tortor a ornare. Praesent quis suscipit mauris. Praesent congue viverra pretium. Curabitur ut dolor purus. Aliquam erat volutpat. Nam sagittis eu neque sed elementum. Nulla in arcu nec turpis venenatis volutpat a vitae tellus.
+
+Donec auctor nunc erat, ac tempus sem ornare eget. Praesent sit amet nulla nec dui commodo dictum at sit amet metus. Proin varius tincidunt aliquam. Fusce id eros purus. Praesent nec tincidunt quam, sit amet porttitor nisi. Donec egestas metus nec luctus malesuada. Curabitur maximus tellus sed arcu blandit, sit amet porttitor diam semper. Duis ornare pharetra molestie. Suspendisse potenti. Maecenas nulla erat, tincidunt nec tincidunt nec, scelerisque ac quam. Aliquam varius congue eros eu suscipit. Proin molestie eleifend ex.
+
+Cras porttitor suscipit urna quis faucibus. Sed fringilla aliquam quam volutpat pharetra. Curabitur non pulvinar nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In quis neque sed ligula pulvinar lobortis. Vivamus a dui eros. Nunc pharetra interdum tortor, eget convallis diam sodales non. Nullam blandit lacus quis ultrices ullamcorper. Aenean iaculis tortor dui, non tristique mauris semper id. Praesent ut erat quis urna euismod accumsan. Aliquam suscipit semper ligula. Integer molestie justo in velit placerat facilisis. Sed vitae diam arcu. In sed felis in lectus rhoncus lobortis.
+
+Sed tristique turpis et elit feugiat faucibus. Phasellus tristique orci risus, consectetur dignissim tortor consectetur ac. Aenean in aliquet nibh. Suspendisse sem ex, porta ut blandit ac, bibendum ac dolor. In pellentesque efficitur ultrices. Suspendisse dignissim luctus placerat. Maecenas consectetur odio et placerat porttitor. Sed mollis, mauris et commodo cursus, odio diam hendrerit elit, ac tempus tortor nisl cursus nisi. In aliquet purus at dui fringilla iaculis. Nullam laoreet elit a lacus pharetra lacinia. Ut posuere rhoncus nibh, et scelerisque est fringilla faucibus. Curabitur non lacus lobortis, sodales urna vel, sagittis nisl. Nulla facilisi. Integer blandit diam magna, id aliquam nisi cursus quis. Aenean urna ipsum, molestie sit amet sapien accumsan, accumsan porta justo. Cras quis enim et metus vehicula bibendum ut vitae felis.
+
+Mauris sodales, sapien ut suscipit fringilla, sapien odio volutpat sapien, eu pharetra ante risus iaculis risus. Aliquam magna risus, pharetra id enim vitae, feugiat blandit magna. Morbi ut urna tellus. Donec tincidunt ligula tincidunt, sollicitudin eros vel, dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque ac purus ultricies, egestas felis a, congue urna. Pellentesque eget lacus dui. Etiam at leo ac diam bibendum tincidunt vitae ut dui. Sed tempus, metus eget volutpat tristique, sem dui faucibus eros, vel tempus neque est vitae neque. Praesent bibendum erat risus, sed condimentum nibh interdum sit amet. Nulla ac nisl at massa feugiat ultricies. Curabitur condimentum sem eget nisl dignissim sodales. Vivamus interdum auctor vehicula. Quisque non libero tortor. Nullam nunc mauris, posuere ut auctor nec, pretium eu neque.</string>
+</resources>
